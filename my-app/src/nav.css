@@ -1,0 +1,15 @@
+.bla {
+  margin: 0;
+  padding: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: lightcoral;
+  font-family: monospace;
+}
+
+h2,
+p {
+  font-size: 20px;
+}
